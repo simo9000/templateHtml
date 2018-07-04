@@ -1,0 +1,11 @@
+{
+  "name": "template-html",
+  "version": "1.0.0",
+  "description": "uses handlebars to combine a json file with a template file and generate a rendered html file",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "author": "Simon Morris",
+  "license": "ISC"
+}
